@@ -5,3 +5,55 @@ body{
 	background-color:#B6D2E0;
 }
 
+.center{
+  height:300px;
+  margin-right:190px;
+  margin-left:190px;
+  padding: 50px 0;
+  text-align: center;
+}
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #C8B6B3;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+h1{
+  font-size:25px;
+  margin-left:400px;
+  margin-right:auto;
+  top:10px;
+}
+
+p{
+  font-size:25px;
+  margin-left:400px;
+  top:100px;
+  font-size: 12px;
+}
+
+img{
+  display:block;
+  margin-left:195px;
+  margin-right:auto;
+  width:180px;
+  position:absolute;
+  top:80px;
+  height:180px;
+}
