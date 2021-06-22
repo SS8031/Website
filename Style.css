@@ -5,15 +5,23 @@ body{
   background-color:#B6D2E0;
 }
 
+/* The styling for the first header */
+h1{	
+  font-size:25px;
+  margin-left:100px;
+  margin-right:auto;
+  top:10px;
+}
+
+/* The styling for the center container */
 .center{
-  height:300px;
-  margin-right:190px;
-  margin-left:190px;
-  padding: 50px 0;
+  margin-right:100px;
+  margin-left:10px;
+  padding: 10px 0;
   text-align: center;
 }
 
-
+/* The styling for the navigation bar */
 ul {
   list-style-type: none;
   margin: 0;
@@ -34,32 +42,19 @@ li a {
   text-decoration: none;
 }
 
-h1{	
-  font-size:25px;
-  margin-left:400px;
-  margin-right:auto;
-  top:10px;
-}
-
+/* Styling for the paragraphs */
 p{
   font-size:25px;
-  margin-left:400px;
+  margin-left:140px;
   top:100px;
   font-size: 12px;
 }
 
+/* Styling of the image of me */
 img{
-  display:block;
-  margin-left:195px;
-  margin-right:auto;
+  margin-left:120px;
+  margin-right:20px;
   width:180px;
-  position:absolute;
-  top:80px;
+  top:50px;
   height:180px;
-}
-
-button{
-  position: relative;
-  top: 50px;	
-  text-align: center;
 }
