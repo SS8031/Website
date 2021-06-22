@@ -34,6 +34,11 @@ li {
   float: left;
 }
 
+/* Adding hovering effect, adds a line under the header */
+ul li:hover{
+  text-decoration: underline;
+}
+
 li a {
   display: block;
   color: white;
@@ -59,11 +64,12 @@ img{
   height:180px;
 }
 
-/* Styling for the table in the Skills page */
+/* Header for the skills html page */
 h2{
   text-align: center;
 }
 
+/* Styling for the top table in the skills page */
 .firstTable{
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   border-collapse: collapse;
@@ -71,18 +77,21 @@ h2{
   width: 100%;
 }
 
+/* The table header */
 th {
   border: 2px solid black;
   padding: 8px;
   background-color: #C8B6B3;
 }
 
+/* Rows for the table */
 td{
   border: 2px solid black;
   vertical-align: top;
   padding: 8px;
 }
 
+/* Styling for the bottom table on the skills page*/
 .secondTable{
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   border-collapse: collapse;
