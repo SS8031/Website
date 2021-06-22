@@ -1,0 +1,32 @@
+body{
+    font-size:16px;
+    font-weight:400px;
+    color:#666;
+    background-color:#B6D2E0;
+  }
+  
+/* The styling for the navigation bar */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #C8B6B3;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  /* Adding hovering effect, adds a line under the header */
+  ul li:hover{
+    text-decoration: underline;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
