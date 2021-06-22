@@ -60,14 +60,33 @@ img{
 }
 
 /* Styling for the table in the Skills page */
-table{
-  font-family: Arial, Helvetica, sans-serif;
+h2{
+  text-align: center;
+}
+
+.firstTable{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   border-collapse: collapse;
+  table-layout: fixed;
   width: 100%;
 }
 
-td, th {
-  border: 1px solid black;
-  text-align: left;
+th {
+  border: 2px solid black;
   padding: 8px;
+  background-color: #C8B6B3;
+}
+
+td{
+  border: 2px solid black;
+  vertical-align: top;
+  padding: 8px;
+}
+
+.secondTable{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+  margin-top: 10px;
 }
