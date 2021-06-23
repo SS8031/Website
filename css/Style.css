@@ -99,3 +99,44 @@ td{
   width: 100%;
   margin-top: 10px;
 }
+
+/* Styling for the Achievements page */
+
+/* Header */
+h3{
+  text-align: center;
+}
+
+/* Awards table on the achievements page */
+.awards{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-collapse: collapse;
+  /* table-layout: fixed; */
+  width: 45%;
+  float:right;
+  margin-right: 35px;
+  margin-top: 10px;
+  text-align: center;
+}
+
+/* Roles table on the achievements page */
+.roles{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-collapse: collapse;
+  /* table-layout: fixed; */
+  width: 50%;
+  margin-top: 10px;
+  float: left;
+  text-align: center;
+}
+
+/* Scholarship and Internship table on the achievements page */
+.scholar{
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  border-collapse: collapse;
+  margin-top: 20px;
+  width: 45%;
+  float: right;
+  margin-right: 35px;
+  text-align: center;
+}
