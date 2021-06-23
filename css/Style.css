@@ -52,7 +52,7 @@ p{
   font-size:25px;
   margin-left:140px;
   top:100px;
-  font-size: 12px;
+  font-size: 18px;
 }
 
 /* Styling of the image of me */
@@ -62,10 +62,12 @@ img{
   width:180px;
   top:50px;
   height:180px;
+  border: 5px double black;
 }
 
 /* Header for the skills html page */
 h2{
+  font-size: 25px;
   text-align: center;
 }
 
@@ -104,6 +106,7 @@ td{
 
 /* Header */
 h3{
+  font-size: 25px;
   text-align: center;
 }
 
