@@ -1,6 +1,8 @@
 # CV Website
 I have created a very simple website that is an extension of my CV. This website showcases some basic HTML and CSS skills I have learnt.
 
+**You can view it here:** https://sanjeetasingh.github.io/CV-Website.github.io/
+
 ## Pages
 #### Home page:
 - A description of me with a navigation bar allowing you to navigate to other sections of the cv website. 
